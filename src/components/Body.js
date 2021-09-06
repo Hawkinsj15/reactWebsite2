@@ -1,4 +1,6 @@
 import React from 'react'
+import { Button } from '@material-ui/core';
+import  './body.css'
 
 export default function Body() {
     return (
@@ -9,8 +11,12 @@ export default function Body() {
                 <div class="row">
 
                     <div class ="col-md-4" >
-                        <div style={{backgroundColor:"black", border:"2px solid black", height:"400px",marginTop:"5%"}}>
+                        <div class="fille">
                         <p>dsdddedleded</p>
+                        <Button variant="contained" color="primary">
+  Primary
+</Button>
+                    
                         </div>
 
 
