@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.title{
+  margin-top: 30px;
+  text-align:center;
+  color:#f19ddd;
+  font-family: 'Alumni Sans', sans-serif;
+  font-size: 78px;
+  font-weight:100px;
+
+ 
+}
+.abHeader{
+  font-size: 100px;
+  font-family: 'Alumni Sans', sans-serif;
+  color:orange;
+  text-align: center;
+  
+}
