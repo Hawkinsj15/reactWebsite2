@@ -42,7 +42,7 @@ export default function Body() {
               >
                 {" "}
                 Subscribe to my vlog and podcast!!! Join the team and get the
-                latest updates..
+                latest updates..ayee
               </h4>
             </div>
           </div>
