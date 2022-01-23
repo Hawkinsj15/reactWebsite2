@@ -18,7 +18,7 @@ export default function Body() {
                             </a>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Make Dat Bread</h5>
+                            <h5 class="card-title">Make Dat Breadz</h5>
                             <p class="card-text">Dont let it make you.</p>
                             <a href="#!" class="btn btn-primary">Click Here!</a>
                         </div>
